@@ -1,0 +1,1 @@
+export const LINK_ROUTE = "/api/link";

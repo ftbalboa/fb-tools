@@ -1,0 +1,31 @@
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  margin: 1rem 0;
+  padding: 0 1rem;
+}
+
+.title{
+    font-size: 1.2rem;
+    width: 5rem;
+    padding: 0 1rem;
+}
+
+.url{
+    color: blue;
+    text-align: center;
+    width: 10rem;
+}
+
+.cancelButton{
+    color: red;
+    height: 2rem;
+    background-color: transparent;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
