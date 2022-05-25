@@ -1,4 +1,4 @@
-import ApiService from "../../pages/service/ApiService";
+import ApiService from "../../service/ApiService";
 import styles from './LinkCard.module.css'
 
 export default function LinkCard({ title, url, id , updateCallback}) {

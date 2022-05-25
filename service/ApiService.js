@@ -1,4 +1,4 @@
-const { LINK_ROUTE } = require("../../consts");
+const { LINK_ROUTE } = require("../consts");
 
 
 const ApiService = {

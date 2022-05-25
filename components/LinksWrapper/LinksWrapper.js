@@ -1,5 +1,5 @@
 import react from "react"
-import ApiService from "../../pages/service/ApiService"
+import ApiService from "../../service/ApiService"
 import LinkCard from "./LinkCard";
 import LinkForm from "./LinkForm";
 

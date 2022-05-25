@@ -1,5 +1,5 @@
 import react from "react";
-import ApiService from "../../pages/service/ApiService";
+import ApiService from "../../service/ApiService";
 
 export default function LinkForm({ updateCallback }) {
   const [input, setInput] = react.useState({
